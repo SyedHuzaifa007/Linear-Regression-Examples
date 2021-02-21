@@ -1,2 +1,2 @@
 # Linear-Regression-Examples
-This repository is made for the linear regression examples
+This repository contain the codes for Linear Regression Examples.
